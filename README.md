@@ -4,7 +4,7 @@
   give me an issue. Thanks a lot.
 
 - Note: 
-    - 1. Please name your folder with your username.
+    - 1. Please name your folder with your own username.
     - 2. Everyone needs to add README in his or her own path.
     - 3. Please check the status before you push, be sure your branch
          is synchronous with master branch. Don't push meaningless commits.
