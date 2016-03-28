@@ -18,7 +18,7 @@
 - The guide for a programmer
   - [The Answer from Quora](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
   - [From Zhihu in Chinese](https://www.zhihu.com/question/19599607)
-  - [From Zhihu in Chinese][https://www.zhihu.com/question/27159958]
+  - [From Zhihu in Chinese](https://www.zhihu.com/question/27159958)
   - [From Zhihu in Chinese](https://www.zhihu.com/question/31034164)
   - [From Zhihu in Chinese](https://www.zhihu.com/question/27863651)
   - [From Zhihu in Chinese](http://zhuanlan.zhihu.com/xiao-jing-mo/19959253)
