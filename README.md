@@ -13,7 +13,7 @@
 - [The Best Article "Teach yourself in ten yaers"](http://norvig.com/21-days.html)
 
 - Resource for C programming
-  - (C Tutorial)[http://www.tutorialspoint.com/cprogramming/]
+  - [C Tutorial](http://www.tutorialspoint.com/cprogramming/)
 
 - The guide for a programmer
   - [The Answer from Quora](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
