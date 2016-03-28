@@ -7,5 +7,6 @@
     - 1. Please name your folder with your own username.
     - 2. Everyone needs to add README in his or her own path.
     - 3. Please check the status before you push, be sure your branch
-         is synchronous with master branch. Don't push meaningless commits.
+         is synchronous with master branch. <br>
+         Don't push meaningless commits.
     - 4. Most importantly, please keep focus, love coding and have fun.
