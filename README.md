@@ -10,25 +10,30 @@
          is synchronous with master branch. Don't push meaningless commits.
     - 4. Most importantly, please keep focus, love coding and have fun.
 
-- [The Best Article "Teach yourself in ten yaers"](http://norvig.com/21-days.html)
+- **The Best Article**
+  - ["Teach yourself in ten yaers"](http://norvig.com/21-days.html)
 
-- Resource for C programming
+- **Resource For C Programming**
   - [C Tutorial](http://www.tutorialspoint.com/cprogramming/)
 
-- The guide for a programmer
-  - [The Answer from Quora](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
-  - [From Zhihu in Chinese](https://www.zhihu.com/question/19599607)
-  - [From Zhihu in Chinese](https://www.zhihu.com/question/27159958)
-  - [From Zhihu in Chinese](https://www.zhihu.com/question/31034164)
-  - [From Zhihu in Chinese](https://www.zhihu.com/question/27863651)
-  - [From Zhihu in Chinese](http://zhuanlan.zhihu.com/xiao-jing-mo/19959253)
-- Computer Security
-      -[Web Security from Zhihu in Chinese](https://www.zhihu.com/question/21606800)
+- **The Guide For A Programmer**
+  - [What are some of the best ways to learn programming?](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
+  - [非科班出身程序员比较容易缺乏哪些技能？用什么方法弥补比较好？](https://www.zhihu.com/question/19599607)
+  - [C++学完了，如果我要做软件开发，继续学什么？](https://www.zhihu.com/question/27159958)
+  - [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
+  - [IT 前辈们对计算机相关专业本科在校大学生有什么可以传授的经验么？](https://www.zhihu.com/question/27863651)
+  - [编程入门指南 v1.4](http://zhuanlan.zhihu.com/xiao-jing-mo/19959253)
+  - [学习编程的过程中可能会走哪些弯路，有哪些经验可以参考？](https://www.zhihu.com/question/22863981)
+  - [怎么成为一个优秀的程序员，而不是一个优秀的码农？](https://www.zhihu.com/question/22032651)
+- **Computer Security**
+      - [零基础如何学习 Web 安全？](https://www.zhihu.com/question/21606800)
+      - [有哪些可以深入学习信息安全、网络安全的地方？](https://www.zhihu.com/question/19742570)
 
-    - The Tutorials
-      -[From Zhihu in Chinese](https://www.zhihu.com/question/27159958)
+- **The Project Tutorials**
+  - [计算机科学中有哪些典型的练手项目？](https://www.zhihu.com/question/29779842)
+  - [一千行以下有哪些值得学习的小型开源项目？](https://www.zhihu.com/question/26469623)
 
-- Web Site
+- **Web Sites**
   - [Quora](https://www.quora.com/)
   - [Stack Overflow](http://stackoverflow.com/)
   - [知乎(Zhihu)](https://www.zhihu.com/)
