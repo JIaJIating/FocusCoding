@@ -11,7 +11,7 @@
     - 4. Most importantly, please keep focus, love coding and have fun.
 
 - **The Best Article**
-  - ["Teach yourself in ten yaers"](http://norvig.com/21-days.html)
+  - ["Teach Yourself Programming In Ten Years"](http://norvig.com/21-days.html)
 
 - **Resource For C Programming**
   - [C Tutorial](http://www.tutorialspoint.com/cprogramming/)
