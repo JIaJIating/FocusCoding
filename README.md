@@ -4,14 +4,14 @@
   give me an issue. Thanks a lot.
 
 - Note:
-    - 1. Please name your folder with your own username.
-    - 2. Everyone needs to add README in his or her own path.
-    - 3. Please check the status before you push, be sure your branch
+   1. Please name your folder with your own username.
+   2. Everyone needs to add README in his or her own path.
+   3. Please check the status before you push, be sure your branch
          is synchronous with master branch. Don't push meaningless commits.
-    - 4. Most importantly, please keep focus, love coding and have fun.
+   4. Most importantly, please keep focus, love coding and have fun.
 
 - **The Best Article**
-  - ["Teach Yourself Programming In Ten Years"](http://norvig.com/21-days.html)
+  - [Teach Yourself Programming In Ten Years](http://norvig.com/21-days.html)
 
 - **Resource For C Programming**
   - [C Tutorial](http://www.tutorialspoint.com/cprogramming/)
@@ -26,8 +26,12 @@
   - [学习编程的过程中可能会走哪些弯路，有哪些经验可以参考？](https://www.zhihu.com/question/22863981)
   - [怎么成为一个优秀的程序员，而不是一个优秀的码农？](https://www.zhihu.com/question/22032651)
 - **Computer Security**
-      - [零基础如何学习 Web 安全？](https://www.zhihu.com/question/21606800)
-      - [有哪些可以深入学习信息安全、网络安全的地方？](https://www.zhihu.com/question/19742570)
+    - [零基础如何学习 Web 安全？](https://www.zhihu.com/question/21606800)
+    - [有哪些可以深入学习信息安全、网络安全的地方？](https://www.zhihu.com/question/19742570)
+
+- **Version Control System**
+  - [github简明教程](http://www.devashen.com/blog/2016/01/12/githubused/)
+  - [git-recipes](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
 - **The Project Tutorials**
   - [计算机科学中有哪些典型的练手项目？](https://www.zhihu.com/question/29779842)
@@ -37,4 +41,4 @@
   - [Quora](https://www.quora.com/)
   - [Stack Overflow](http://stackoverflow.com/)
   - [知乎(Zhihu)](https://www.zhihu.com/)
-  - [V2EX](https://www.v2ex.com/)(Note: Blocked by GFW needs vpn. And fuck the GFW.)
+  - [V2EX](https://www.v2ex.com/)(Note: Blocked by GFW, needs vpn to visit. And then fuck the GFW.)
