@@ -15,6 +15,7 @@
 
 - ## **Resource For C Programming**
   - [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)
+  - [C Exercises And Solutions Programming](http://www.worldbestlearningcenter.com/index_files/c_tutorial_lesson.htm)
 
 - ## **The Guide For A Programmer**
   - [What are some of the best ways to learn programming?](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
