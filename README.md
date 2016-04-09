@@ -38,6 +38,9 @@
   - [计算机科学中有哪些典型的练手项目？](https://www.zhihu.com/question/29779842)
   - [一千行以下有哪些值得学习的小型开源项目？](https://www.zhihu.com/question/26469623)
 
+- ## **A Beginer Guide To Markdown**
+  - [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
+
 - ## **Web Sites**
   - [Quora](https://www.quora.com/)
   - [Stack Overflow](http://stackoverflow.com/)
