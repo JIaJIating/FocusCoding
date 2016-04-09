@@ -10,6 +10,9 @@
  * *******
  * *******
  * @CreatedTime: 9/4/16.
+ * Polish by Soyn at 9/4/16, more details visit the issue of
+ * FocusCoding about style of coding.
+ * (https://github.com/FocusCoding/FocusCoding/issues/13)
 *******************************************************************/
 
 int main(int argc,char *argv[])
@@ -19,7 +22,6 @@ int main(int argc,char *argv[])
     printf("*******\n");
     printf("*******\n");
     printf("*******\n");
-    system("PAUSE");
     return EXIT_SUCCESS;
 
     }
