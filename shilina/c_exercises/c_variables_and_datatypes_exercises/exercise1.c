@@ -14,5 +14,5 @@ int main(int argc, char **argv)
 {
     printf("Welcome!\n");
     printf("You are able to test your skill of writing C code here.");
-     return 0;
+    return 0;
 }
