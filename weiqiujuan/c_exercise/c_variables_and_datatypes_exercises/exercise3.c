@@ -17,10 +17,9 @@ int main(int argc,char*argv[])
 	z=12.6;
 	printf("x=%d",x);
 	printf("\t");
-    printf("y=%d",x);
+        printf("y=%d",x);
 	printf("\t");
 	printf("z=%3.1f",z);
 	printf("\n");
-	system("PAUSE");
 	return 0;
 }
