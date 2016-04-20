@@ -18,7 +18,6 @@
     x=10;
     y=15;
     z=12.6;
-    kftf
     printf("x= %d",x);
     printf("\t");
     printf("y=%d",y);
