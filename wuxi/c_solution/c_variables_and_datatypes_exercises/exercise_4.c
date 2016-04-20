@@ -4,6 +4,7 @@
 * @Author: wuxi
 * @Brief:Exercise 4: Write a C program to prompt the user to input
 * her/his age and print it on the screen, as shown below.
+* then prints these values on the screen.
 * Enter your age:
 * @CreatedTime: 20/4/16.
 *******************************************************************/
