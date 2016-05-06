@@ -7,7 +7,7 @@
 * to input 3 integer values
 * and print these values in forward
 * and reversed order.
-* @CreatedTime: 14/4/16.
+* @CreatedTime: 15/4/16.
 ***********************************************/
 
 int main(int argc,char *argv[])
